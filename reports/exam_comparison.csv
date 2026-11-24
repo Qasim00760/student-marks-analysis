@@ -1,0 +1,301 @@
+student_id,subject,first_exam,last_exam,change
+S001,Math,43,44,1
+S001,English,77,84,7
+S001,Science,81,89,8
+S001,Computer Science,74,74,0
+S001,Urdu,87,89,2
+S002,Math,41,38,-3
+S002,English,59,65,6
+S002,Science,66,74,8
+S002,Computer Science,65,69,4
+S002,Urdu,77,78,1
+S003,Math,80,79,-1
+S003,English,75,76,1
+S003,Science,61,67,6
+S003,Computer Science,75,78,3
+S003,Urdu,87,93,6
+S004,Math,84,87,3
+S004,English,76,78,2
+S004,Science,56,51,-5
+S004,Computer Science,67,64,-3
+S004,Urdu,87,85,-2
+S005,Math,50,61,11
+S005,English,59,67,8
+S005,Science,48,50,2
+S005,Computer Science,54,55,1
+S005,Urdu,73,66,-7
+S006,Math,67,72,5
+S006,English,61,55,-6
+S006,Science,64,64,0
+S006,Computer Science,71,74,3
+S006,Urdu,82,84,2
+S007,Math,52,56,4
+S007,English,77,88,11
+S007,Science,82,87,5
+S007,Computer Science,93,89,-4
+S007,Urdu,75,73,-2
+S008,Math,60,55,-5
+S008,English,78,79,1
+S008,Science,51,48,-3
+S008,Computer Science,78,86,8
+S008,Urdu,91,100,9
+S009,Math,75,72,-3
+S009,English,55,59,4
+S009,Science,61,62,1
+S009,Computer Science,69,71,2
+S009,Urdu,86,90,4
+S010,Math,60,57,-3
+S010,English,54,54,0
+S010,Science,65,79,14
+S010,Computer Science,72,81,9
+S010,Urdu,70,66,-4
+S011,Math,58,56,-2
+S011,English,98,97,-1
+S011,Science,86,84,-2
+S011,Computer Science,92,97,5
+S011,Urdu,83,86,3
+S012,Math,62,68,6
+S012,English,75,70,-5
+S012,Science,60,64,4
+S012,Computer Science,98,100,2
+S012,Urdu,83,88,5
+S013,Math,89,94,5
+S013,English,71,80,9
+S013,Science,77,89,12
+S013,Computer Science,78,74,-4
+S013,Urdu,70,83,13
+S014,Math,100,100,0
+S014,English,77,89,12
+S014,Science,64,62,-2
+S014,Computer Science,90,90,0
+S014,Urdu,86,88,2
+S015,Math,76,88,12
+S015,English,78,84,6
+S015,Science,49,52,3
+S015,Computer Science,70,65,-5
+S015,Urdu,76,77,1
+S016,Math,77,73,-4
+S016,English,69,69,0
+S016,Science,62,71,9
+S016,Computer Science,77,88,11
+S016,Urdu,73,72,-1
+S017,Math,67,71,4
+S017,English,78,74,-4
+S017,Science,74,79,5
+S017,Computer Science,100,100,0
+S017,Urdu,75,77,2
+S018,Math,39,38,-1
+S018,English,71,81,10
+S018,Science,56,56,0
+S018,Computer Science,47,49,2
+S018,Urdu,66,66,0
+S019,Math,59,62,3
+S019,English,63,58,-5
+S019,Science,100,97,-3
+S019,Computer Science,69,83,14
+S019,Urdu,100,100,0
+S020,Math,62,67,5
+S020,English,89,86,-3
+S020,Science,68,75,7
+S020,Computer Science,80,81,1
+S020,Urdu,78,73,-5
+S021,Math,63,64,1
+S021,English,75,75,0
+S021,Science,76,85,9
+S021,Computer Science,77,82,5
+S021,Urdu,78,81,3
+S022,Math,52,57,5
+S022,English,69,85,16
+S022,Science,86,91,5
+S022,Computer Science,64,60,-4
+S022,Urdu,83,88,5
+S023,Math,83,76,-7
+S023,English,90,95,5
+S023,Science,65,65,0
+S023,Computer Science,86,90,4
+S023,Urdu,84,87,3
+S024,Math,63,67,4
+S024,English,86,74,-12
+S024,Science,67,71,4
+S024,Computer Science,78,79,1
+S024,Urdu,66,71,5
+S025,Math,93,87,-6
+S025,English,79,80,1
+S025,Science,68,64,-4
+S025,Computer Science,70,81,11
+S025,Urdu,81,94,13
+S026,Math,85,90,5
+S026,English,88,93,5
+S026,Science,79,80,1
+S026,Computer Science,75,73,-2
+S026,Urdu,84,80,-4
+S027,Math,84,86,2
+S027,English,88,95,7
+S027,Science,96,100,4
+S027,Computer Science,62,64,2
+S027,Urdu,74,74,0
+S028,Math,94,100,6
+S028,English,70,67,-3
+S028,Science,74,69,-5
+S028,Computer Science,71,76,5
+S028,Urdu,89,96,7
+S029,Math,34,39,5
+S029,English,77,83,6
+S029,Science,93,83,-10
+S029,Computer Science,72,79,7
+S029,Urdu,70,82,12
+S030,Math,76,85,9
+S030,English,71,79,8
+S030,Science,86,91,5
+S030,Computer Science,81,86,5
+S030,Urdu,76,78,2
+S031,Math,78,84,6
+S031,English,96,92,-4
+S031,Science,82,94,12
+S031,Computer Science,81,79,-2
+S031,Urdu,93,100,7
+S032,Math,66,77,11
+S032,English,79,87,8
+S032,Science,75,92,17
+S032,Computer Science,71,62,-9
+S032,Urdu,88,88,0
+S033,Math,67,78,11
+S033,English,57,52,-5
+S033,Science,49,47,-2
+S033,Computer Science,78,84,6
+S033,Urdu,78,72,-6
+S034,Math,26,29,3
+S034,English,65,71,6
+S034,Science,75,78,3
+S034,Computer Science,79,84,5
+S034,Urdu,78,77,-1
+S035,Math,69,73,4
+S035,English,85,86,1
+S035,Science,81,82,1
+S035,Computer Science,78,86,8
+S035,Urdu,69,64,-5
+S036,Math,51,40,-11
+S036,English,75,82,7
+S036,Science,74,79,5
+S036,Computer Science,95,100,5
+S036,Urdu,85,96,11
+S037,Math,69,67,-2
+S037,English,68,62,-6
+S037,Science,60,61,1
+S037,Computer Science,84,97,13
+S037,Urdu,69,74,5
+S038,Math,46,52,6
+S038,English,68,60,-8
+S038,Science,77,76,-1
+S038,Computer Science,65,62,-3
+S038,Urdu,69,75,6
+S039,Math,60,65,5
+S039,English,72,83,11
+S039,Science,62,56,-6
+S039,Computer Science,83,84,1
+S039,Urdu,82,87,5
+S040,Math,70,75,5
+S040,English,95,100,5
+S040,Science,76,80,4
+S040,Computer Science,92,90,-2
+S040,Urdu,85,88,3
+S041,Math,77,75,-2
+S041,English,64,55,-9
+S041,Science,62,62,0
+S041,Computer Science,77,92,15
+S041,Urdu,91,88,-3
+S042,Math,77,77,0
+S042,English,75,79,4
+S042,Science,82,83,1
+S042,Computer Science,91,87,-4
+S042,Urdu,82,100,18
+S043,Math,68,79,11
+S043,English,71,77,6
+S043,Science,66,68,2
+S043,Computer Science,63,69,6
+S043,Urdu,69,76,7
+S044,Math,87,92,5
+S044,English,73,79,6
+S044,Science,69,77,8
+S044,Computer Science,57,58,1
+S044,Urdu,66,60,-6
+S045,Math,91,99,8
+S045,English,68,62,-6
+S045,Science,36,36,0
+S045,Computer Science,100,100,0
+S045,Urdu,76,82,6
+S046,Math,44,46,2
+S046,English,76,79,3
+S046,Science,82,87,5
+S046,Computer Science,85,84,-1
+S046,Urdu,87,99,12
+S047,Math,58,55,-3
+S047,English,91,93,2
+S047,Science,93,93,0
+S047,Computer Science,97,100,3
+S047,Urdu,86,98,12
+S048,Math,64,61,-3
+S048,English,71,77,6
+S048,Science,54,60,6
+S048,Computer Science,71,81,10
+S048,Urdu,64,62,-2
+S049,Math,45,43,-2
+S049,English,80,82,2
+S049,Science,72,74,2
+S049,Computer Science,82,79,-3
+S049,Urdu,88,95,7
+S050,Math,75,81,6
+S050,English,77,92,15
+S050,Science,70,72,2
+S050,Computer Science,68,65,-3
+S050,Urdu,71,68,-3
+S051,Math,69,74,5
+S051,English,76,75,-1
+S051,Science,84,91,7
+S051,Computer Science,76,75,-1
+S051,Urdu,85,89,4
+S052,Math,49,51,2
+S052,English,80,78,-2
+S052,Science,77,71,-6
+S052,Computer Science,94,100,6
+S052,Urdu,81,86,5
+S053,Math,21,17,-4
+S053,English,63,59,-4
+S053,Science,71,86,15
+S053,Computer Science,54,52,-2
+S053,Urdu,72,85,13
+S054,Math,47,51,4
+S054,English,88,82,-6
+S054,Science,54,54,0
+S054,Computer Science,68,76,8
+S054,Urdu,79,71,-8
+S055,Math,73,73,0
+S055,English,83,82,-1
+S055,Science,61,67,6
+S055,Computer Science,82,87,5
+S055,Urdu,64,71,7
+S056,Math,48,52,4
+S056,English,57,63,6
+S056,Science,57,53,-4
+S056,Computer Science,80,84,4
+S056,Urdu,71,83,12
+S057,Math,59,62,3
+S057,English,75,74,-1
+S057,Science,75,75,0
+S057,Computer Science,70,81,11
+S057,Urdu,70,59,-11
+S058,Math,100,100,0
+S058,English,79,71,-8
+S058,Science,76,78,2
+S058,Computer Science,83,79,-4
+S058,Urdu,92,98,6
+S059,Math,39,46,7
+S059,English,87,91,4
+S059,Science,62,64,2
+S059,Computer Science,78,70,-8
+S059,Urdu,75,76,1
+S060,Math,100,100,0
+S060,English,95,91,-4
+S060,Science,84,89,5
+S060,Computer Science,72,76,4
+S060,Urdu,93,94,1

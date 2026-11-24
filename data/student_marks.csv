@@ -1,0 +1,601 @@
+student_id,subject,exam,exam_date,marks
+S001,Math,Midterm,2024-01-10,43
+S001,Math,Final,2024-03-15,44
+S001,English,Midterm,2024-01-10,77
+S001,English,Final,2024-03-15,84
+S001,Science,Midterm,2024-01-10,81
+S001,Science,Final,2024-03-15,89
+S001,Computer Science,Midterm,2024-01-10,74
+S001,Computer Science,Final,2024-03-15,74
+S001,Urdu,Midterm,2024-01-10,87
+S001,Urdu,Final,2024-03-15,89
+S002,Math,Midterm,2024-01-10,41
+S002,Math,Final,2024-03-15,38
+S002,English,Midterm,2024-01-10,59
+S002,English,Final,2024-03-15,65
+S002,Science,Midterm,2024-01-10,66
+S002,Science,Final,2024-03-15,74
+S002,Computer Science,Midterm,2024-01-10,65
+S002,Computer Science,Final,2024-03-15,69
+S002,Urdu,Midterm,2024-01-10,77
+S002,Urdu,Final,2024-03-15,78
+S003,Math,Midterm,2024-01-10,80
+S003,Math,Final,2024-03-15,79
+S003,English,Midterm,2024-01-10,75
+S003,English,Final,2024-03-15,76
+S003,Science,Midterm,2024-01-10,61
+S003,Science,Final,2024-03-15,67
+S003,Computer Science,Midterm,2024-01-10,75
+S003,Computer Science,Final,2024-03-15,78
+S003,Urdu,Midterm,2024-01-10,87
+S003,Urdu,Final,2024-03-15,93
+S004,Math,Midterm,2024-01-10,84
+S004,Math,Final,2024-03-15,87
+S004,English,Midterm,2024-01-10,76
+S004,English,Final,2024-03-15,78
+S004,Science,Midterm,2024-01-10,56
+S004,Science,Final,2024-03-15,51
+S004,Computer Science,Midterm,2024-01-10,67
+S004,Computer Science,Final,2024-03-15,64
+S004,Urdu,Midterm,2024-01-10,87
+S004,Urdu,Final,2024-03-15,85
+S005,Math,Midterm,2024-01-10,50
+S005,Math,Final,2024-03-15,61
+S005,English,Midterm,2024-01-10,59
+S005,English,Final,2024-03-15,67
+S005,Science,Midterm,2024-01-10,48
+S005,Science,Final,2024-03-15,50
+S005,Computer Science,Midterm,2024-01-10,54
+S005,Computer Science,Final,2024-03-15,55
+S005,Urdu,Midterm,2024-01-10,73
+S005,Urdu,Final,2024-03-15,66
+S006,Math,Midterm,2024-01-10,67
+S006,Math,Final,2024-03-15,72
+S006,English,Midterm,2024-01-10,61
+S006,English,Final,2024-03-15,55
+S006,Science,Midterm,2024-01-10,64
+S006,Science,Final,2024-03-15,64
+S006,Computer Science,Midterm,2024-01-10,71
+S006,Computer Science,Final,2024-03-15,74
+S006,Urdu,Midterm,2024-01-10,82
+S006,Urdu,Final,2024-03-15,84
+S007,Math,Midterm,2024-01-10,52
+S007,Math,Final,2024-03-15,56
+S007,English,Midterm,2024-01-10,77
+S007,English,Final,2024-03-15,88
+S007,Science,Midterm,2024-01-10,82
+S007,Science,Final,2024-03-15,87
+S007,Computer Science,Midterm,2024-01-10,93
+S007,Computer Science,Final,2024-03-15,89
+S007,Urdu,Midterm,2024-01-10,75
+S007,Urdu,Final,2024-03-15,73
+S008,Math,Midterm,2024-01-10,60
+S008,Math,Final,2024-03-15,55
+S008,English,Midterm,2024-01-10,78
+S008,English,Final,2024-03-15,79
+S008,Science,Midterm,2024-01-10,51
+S008,Science,Final,2024-03-15,48
+S008,Computer Science,Midterm,2024-01-10,78
+S008,Computer Science,Final,2024-03-15,86
+S008,Urdu,Midterm,2024-01-10,91
+S008,Urdu,Final,2024-03-15,100
+S009,Math,Midterm,2024-01-10,75
+S009,Math,Final,2024-03-15,72
+S009,English,Midterm,2024-01-10,55
+S009,English,Final,2024-03-15,59
+S009,Science,Midterm,2024-01-10,61
+S009,Science,Final,2024-03-15,62
+S009,Computer Science,Midterm,2024-01-10,69
+S009,Computer Science,Final,2024-03-15,71
+S009,Urdu,Midterm,2024-01-10,86
+S009,Urdu,Final,2024-03-15,90
+S010,Math,Midterm,2024-01-10,60
+S010,Math,Final,2024-03-15,57
+S010,English,Midterm,2024-01-10,54
+S010,English,Final,2024-03-15,54
+S010,Science,Midterm,2024-01-10,65
+S010,Science,Final,2024-03-15,79
+S010,Computer Science,Midterm,2024-01-10,72
+S010,Computer Science,Final,2024-03-15,81
+S010,Urdu,Midterm,2024-01-10,70
+S010,Urdu,Final,2024-03-15,66
+S011,Math,Midterm,2024-01-10,58
+S011,Math,Final,2024-03-15,56
+S011,English,Midterm,2024-01-10,98
+S011,English,Final,2024-03-15,97
+S011,Science,Midterm,2024-01-10,86
+S011,Science,Final,2024-03-15,84
+S011,Computer Science,Midterm,2024-01-10,92
+S011,Computer Science,Final,2024-03-15,97
+S011,Urdu,Midterm,2024-01-10,83
+S011,Urdu,Final,2024-03-15,86
+S012,Math,Midterm,2024-01-10,62
+S012,Math,Final,2024-03-15,68
+S012,English,Midterm,2024-01-10,75
+S012,English,Final,2024-03-15,70
+S012,Science,Midterm,2024-01-10,60
+S012,Science,Final,2024-03-15,64
+S012,Computer Science,Midterm,2024-01-10,98
+S012,Computer Science,Final,2024-03-15,100
+S012,Urdu,Midterm,2024-01-10,83
+S012,Urdu,Final,2024-03-15,88
+S013,Math,Midterm,2024-01-10,89
+S013,Math,Final,2024-03-15,94
+S013,English,Midterm,2024-01-10,71
+S013,English,Final,2024-03-15,80
+S013,Science,Midterm,2024-01-10,77
+S013,Science,Final,2024-03-15,89
+S013,Computer Science,Midterm,2024-01-10,78
+S013,Computer Science,Final,2024-03-15,74
+S013,Urdu,Midterm,2024-01-10,70
+S013,Urdu,Final,2024-03-15,83
+S014,Math,Midterm,2024-01-10,100
+S014,Math,Final,2024-03-15,100
+S014,English,Midterm,2024-01-10,77
+S014,English,Final,2024-03-15,89
+S014,Science,Midterm,2024-01-10,64
+S014,Science,Final,2024-03-15,62
+S014,Computer Science,Midterm,2024-01-10,90
+S014,Computer Science,Final,2024-03-15,90
+S014,Urdu,Midterm,2024-01-10,86
+S014,Urdu,Final,2024-03-15,88
+S015,Math,Midterm,2024-01-10,76
+S015,Math,Final,2024-03-15,88
+S015,English,Midterm,2024-01-10,78
+S015,English,Final,2024-03-15,84
+S015,Science,Midterm,2024-01-10,49
+S015,Science,Final,2024-03-15,52
+S015,Computer Science,Midterm,2024-01-10,70
+S015,Computer Science,Final,2024-03-15,65
+S015,Urdu,Midterm,2024-01-10,76
+S015,Urdu,Final,2024-03-15,77
+S016,Math,Midterm,2024-01-10,77
+S016,Math,Final,2024-03-15,73
+S016,English,Midterm,2024-01-10,69
+S016,English,Final,2024-03-15,69
+S016,Science,Midterm,2024-01-10,62
+S016,Science,Final,2024-03-15,71
+S016,Computer Science,Midterm,2024-01-10,77
+S016,Computer Science,Final,2024-03-15,88
+S016,Urdu,Midterm,2024-01-10,73
+S016,Urdu,Final,2024-03-15,72
+S017,Math,Midterm,2024-01-10,67
+S017,Math,Final,2024-03-15,71
+S017,English,Midterm,2024-01-10,78
+S017,English,Final,2024-03-15,74
+S017,Science,Midterm,2024-01-10,74
+S017,Science,Final,2024-03-15,79
+S017,Computer Science,Midterm,2024-01-10,100
+S017,Computer Science,Final,2024-03-15,100
+S017,Urdu,Midterm,2024-01-10,75
+S017,Urdu,Final,2024-03-15,77
+S018,Math,Midterm,2024-01-10,39
+S018,Math,Final,2024-03-15,38
+S018,English,Midterm,2024-01-10,71
+S018,English,Final,2024-03-15,81
+S018,Science,Midterm,2024-01-10,56
+S018,Science,Final,2024-03-15,56
+S018,Computer Science,Midterm,2024-01-10,47
+S018,Computer Science,Final,2024-03-15,49
+S018,Urdu,Midterm,2024-01-10,66
+S018,Urdu,Final,2024-03-15,66
+S019,Math,Midterm,2024-01-10,59
+S019,Math,Final,2024-03-15,62
+S019,English,Midterm,2024-01-10,63
+S019,English,Final,2024-03-15,58
+S019,Science,Midterm,2024-01-10,100
+S019,Science,Final,2024-03-15,97
+S019,Computer Science,Midterm,2024-01-10,69
+S019,Computer Science,Final,2024-03-15,83
+S019,Urdu,Midterm,2024-01-10,100
+S019,Urdu,Final,2024-03-15,100
+S020,Math,Midterm,2024-01-10,62
+S020,Math,Final,2024-03-15,67
+S020,English,Midterm,2024-01-10,89
+S020,English,Final,2024-03-15,86
+S020,Science,Midterm,2024-01-10,68
+S020,Science,Final,2024-03-15,75
+S020,Computer Science,Midterm,2024-01-10,80
+S020,Computer Science,Final,2024-03-15,81
+S020,Urdu,Midterm,2024-01-10,78
+S020,Urdu,Final,2024-03-15,73
+S021,Math,Midterm,2024-01-10,63
+S021,Math,Final,2024-03-15,64
+S021,English,Midterm,2024-01-10,75
+S021,English,Final,2024-03-15,75
+S021,Science,Midterm,2024-01-10,76
+S021,Science,Final,2024-03-15,85
+S021,Computer Science,Midterm,2024-01-10,77
+S021,Computer Science,Final,2024-03-15,82
+S021,Urdu,Midterm,2024-01-10,78
+S021,Urdu,Final,2024-03-15,81
+S022,Math,Midterm,2024-01-10,52
+S022,Math,Final,2024-03-15,57
+S022,English,Midterm,2024-01-10,69
+S022,English,Final,2024-03-15,85
+S022,Science,Midterm,2024-01-10,86
+S022,Science,Final,2024-03-15,91
+S022,Computer Science,Midterm,2024-01-10,64
+S022,Computer Science,Final,2024-03-15,60
+S022,Urdu,Midterm,2024-01-10,83
+S022,Urdu,Final,2024-03-15,88
+S023,Math,Midterm,2024-01-10,83
+S023,Math,Final,2024-03-15,76
+S023,English,Midterm,2024-01-10,90
+S023,English,Final,2024-03-15,95
+S023,Science,Midterm,2024-01-10,65
+S023,Science,Final,2024-03-15,65
+S023,Computer Science,Midterm,2024-01-10,86
+S023,Computer Science,Final,2024-03-15,90
+S023,Urdu,Midterm,2024-01-10,84
+S023,Urdu,Final,2024-03-15,87
+S024,Math,Midterm,2024-01-10,63
+S024,Math,Final,2024-03-15,67
+S024,English,Midterm,2024-01-10,86
+S024,English,Final,2024-03-15,74
+S024,Science,Midterm,2024-01-10,67
+S024,Science,Final,2024-03-15,71
+S024,Computer Science,Midterm,2024-01-10,78
+S024,Computer Science,Final,2024-03-15,79
+S024,Urdu,Midterm,2024-01-10,66
+S024,Urdu,Final,2024-03-15,71
+S025,Math,Midterm,2024-01-10,93
+S025,Math,Final,2024-03-15,87
+S025,English,Midterm,2024-01-10,79
+S025,English,Final,2024-03-15,80
+S025,Science,Midterm,2024-01-10,68
+S025,Science,Final,2024-03-15,64
+S025,Computer Science,Midterm,2024-01-10,70
+S025,Computer Science,Final,2024-03-15,81
+S025,Urdu,Midterm,2024-01-10,81
+S025,Urdu,Final,2024-03-15,94
+S026,Math,Midterm,2024-01-10,85
+S026,Math,Final,2024-03-15,90
+S026,English,Midterm,2024-01-10,88
+S026,English,Final,2024-03-15,93
+S026,Science,Midterm,2024-01-10,79
+S026,Science,Final,2024-03-15,80
+S026,Computer Science,Midterm,2024-01-10,75
+S026,Computer Science,Final,2024-03-15,73
+S026,Urdu,Midterm,2024-01-10,84
+S026,Urdu,Final,2024-03-15,80
+S027,Math,Midterm,2024-01-10,84
+S027,Math,Final,2024-03-15,86
+S027,English,Midterm,2024-01-10,88
+S027,English,Final,2024-03-15,95
+S027,Science,Midterm,2024-01-10,96
+S027,Science,Final,2024-03-15,100
+S027,Computer Science,Midterm,2024-01-10,62
+S027,Computer Science,Final,2024-03-15,64
+S027,Urdu,Midterm,2024-01-10,74
+S027,Urdu,Final,2024-03-15,74
+S028,Math,Midterm,2024-01-10,94
+S028,Math,Final,2024-03-15,100
+S028,English,Midterm,2024-01-10,70
+S028,English,Final,2024-03-15,67
+S028,Science,Midterm,2024-01-10,74
+S028,Science,Final,2024-03-15,69
+S028,Computer Science,Midterm,2024-01-10,71
+S028,Computer Science,Final,2024-03-15,76
+S028,Urdu,Midterm,2024-01-10,89
+S028,Urdu,Final,2024-03-15,96
+S029,Math,Midterm,2024-01-10,34
+S029,Math,Final,2024-03-15,39
+S029,English,Midterm,2024-01-10,77
+S029,English,Final,2024-03-15,83
+S029,Science,Midterm,2024-01-10,93
+S029,Science,Final,2024-03-15,83
+S029,Computer Science,Midterm,2024-01-10,72
+S029,Computer Science,Final,2024-03-15,79
+S029,Urdu,Midterm,2024-01-10,70
+S029,Urdu,Final,2024-03-15,82
+S030,Math,Midterm,2024-01-10,76
+S030,Math,Final,2024-03-15,85
+S030,English,Midterm,2024-01-10,71
+S030,English,Final,2024-03-15,79
+S030,Science,Midterm,2024-01-10,86
+S030,Science,Final,2024-03-15,91
+S030,Computer Science,Midterm,2024-01-10,81
+S030,Computer Science,Final,2024-03-15,86
+S030,Urdu,Midterm,2024-01-10,76
+S030,Urdu,Final,2024-03-15,78
+S031,Math,Midterm,2024-01-10,78
+S031,Math,Final,2024-03-15,84
+S031,English,Midterm,2024-01-10,96
+S031,English,Final,2024-03-15,92
+S031,Science,Midterm,2024-01-10,82
+S031,Science,Final,2024-03-15,94
+S031,Computer Science,Midterm,2024-01-10,81
+S031,Computer Science,Final,2024-03-15,79
+S031,Urdu,Midterm,2024-01-10,93
+S031,Urdu,Final,2024-03-15,100
+S032,Math,Midterm,2024-01-10,66
+S032,Math,Final,2024-03-15,77
+S032,English,Midterm,2024-01-10,79
+S032,English,Final,2024-03-15,87
+S032,Science,Midterm,2024-01-10,75
+S032,Science,Final,2024-03-15,92
+S032,Computer Science,Midterm,2024-01-10,71
+S032,Computer Science,Final,2024-03-15,62
+S032,Urdu,Midterm,2024-01-10,88
+S032,Urdu,Final,2024-03-15,88
+S033,Math,Midterm,2024-01-10,67
+S033,Math,Final,2024-03-15,78
+S033,English,Midterm,2024-01-10,57
+S033,English,Final,2024-03-15,52
+S033,Science,Midterm,2024-01-10,49
+S033,Science,Final,2024-03-15,47
+S033,Computer Science,Midterm,2024-01-10,78
+S033,Computer Science,Final,2024-03-15,84
+S033,Urdu,Midterm,2024-01-10,78
+S033,Urdu,Final,2024-03-15,72
+S034,Math,Midterm,2024-01-10,26
+S034,Math,Final,2024-03-15,29
+S034,English,Midterm,2024-01-10,65
+S034,English,Final,2024-03-15,71
+S034,Science,Midterm,2024-01-10,75
+S034,Science,Final,2024-03-15,78
+S034,Computer Science,Midterm,2024-01-10,79
+S034,Computer Science,Final,2024-03-15,84
+S034,Urdu,Midterm,2024-01-10,78
+S034,Urdu,Final,2024-03-15,77
+S035,Math,Midterm,2024-01-10,69
+S035,Math,Final,2024-03-15,73
+S035,English,Midterm,2024-01-10,85
+S035,English,Final,2024-03-15,86
+S035,Science,Midterm,2024-01-10,81
+S035,Science,Final,2024-03-15,82
+S035,Computer Science,Midterm,2024-01-10,78
+S035,Computer Science,Final,2024-03-15,86
+S035,Urdu,Midterm,2024-01-10,69
+S035,Urdu,Final,2024-03-15,64
+S036,Math,Midterm,2024-01-10,51
+S036,Math,Final,2024-03-15,40
+S036,English,Midterm,2024-01-10,75
+S036,English,Final,2024-03-15,82
+S036,Science,Midterm,2024-01-10,74
+S036,Science,Final,2024-03-15,79
+S036,Computer Science,Midterm,2024-01-10,95
+S036,Computer Science,Final,2024-03-15,100
+S036,Urdu,Midterm,2024-01-10,85
+S036,Urdu,Final,2024-03-15,96
+S037,Math,Midterm,2024-01-10,69
+S037,Math,Final,2024-03-15,67
+S037,English,Midterm,2024-01-10,68
+S037,English,Final,2024-03-15,62
+S037,Science,Midterm,2024-01-10,60
+S037,Science,Final,2024-03-15,61
+S037,Computer Science,Midterm,2024-01-10,84
+S037,Computer Science,Final,2024-03-15,97
+S037,Urdu,Midterm,2024-01-10,69
+S037,Urdu,Final,2024-03-15,74
+S038,Math,Midterm,2024-01-10,46
+S038,Math,Final,2024-03-15,52
+S038,English,Midterm,2024-01-10,68
+S038,English,Final,2024-03-15,60
+S038,Science,Midterm,2024-01-10,77
+S038,Science,Final,2024-03-15,76
+S038,Computer Science,Midterm,2024-01-10,65
+S038,Computer Science,Final,2024-03-15,62
+S038,Urdu,Midterm,2024-01-10,69
+S038,Urdu,Final,2024-03-15,75
+S039,Math,Midterm,2024-01-10,60
+S039,Math,Final,2024-03-15,65
+S039,English,Midterm,2024-01-10,72
+S039,English,Final,2024-03-15,83
+S039,Science,Midterm,2024-01-10,62
+S039,Science,Final,2024-03-15,56
+S039,Computer Science,Midterm,2024-01-10,83
+S039,Computer Science,Final,2024-03-15,84
+S039,Urdu,Midterm,2024-01-10,82
+S039,Urdu,Final,2024-03-15,87
+S040,Math,Midterm,2024-01-10,70
+S040,Math,Final,2024-03-15,75
+S040,English,Midterm,2024-01-10,95
+S040,English,Final,2024-03-15,100
+S040,Science,Midterm,2024-01-10,76
+S040,Science,Final,2024-03-15,80
+S040,Computer Science,Midterm,2024-01-10,92
+S040,Computer Science,Final,2024-03-15,90
+S040,Urdu,Midterm,2024-01-10,85
+S040,Urdu,Final,2024-03-15,88
+S041,Math,Midterm,2024-01-10,77
+S041,Math,Final,2024-03-15,75
+S041,English,Midterm,2024-01-10,64
+S041,English,Final,2024-03-15,55
+S041,Science,Midterm,2024-01-10,62
+S041,Science,Final,2024-03-15,62
+S041,Computer Science,Midterm,2024-01-10,77
+S041,Computer Science,Final,2024-03-15,92
+S041,Urdu,Midterm,2024-01-10,91
+S041,Urdu,Final,2024-03-15,88
+S042,Math,Midterm,2024-01-10,77
+S042,Math,Final,2024-03-15,77
+S042,English,Midterm,2024-01-10,75
+S042,English,Final,2024-03-15,79
+S042,Science,Midterm,2024-01-10,82
+S042,Science,Final,2024-03-15,83
+S042,Computer Science,Midterm,2024-01-10,91
+S042,Computer Science,Final,2024-03-15,87
+S042,Urdu,Midterm,2024-01-10,82
+S042,Urdu,Final,2024-03-15,100
+S043,Math,Midterm,2024-01-10,68
+S043,Math,Final,2024-03-15,79
+S043,English,Midterm,2024-01-10,71
+S043,English,Final,2024-03-15,77
+S043,Science,Midterm,2024-01-10,66
+S043,Science,Final,2024-03-15,68
+S043,Computer Science,Midterm,2024-01-10,63
+S043,Computer Science,Final,2024-03-15,69
+S043,Urdu,Midterm,2024-01-10,69
+S043,Urdu,Final,2024-03-15,76
+S044,Math,Midterm,2024-01-10,87
+S044,Math,Final,2024-03-15,92
+S044,English,Midterm,2024-01-10,73
+S044,English,Final,2024-03-15,79
+S044,Science,Midterm,2024-01-10,69
+S044,Science,Final,2024-03-15,77
+S044,Computer Science,Midterm,2024-01-10,57
+S044,Computer Science,Final,2024-03-15,58
+S044,Urdu,Midterm,2024-01-10,66
+S044,Urdu,Final,2024-03-15,60
+S045,Math,Midterm,2024-01-10,91
+S045,Math,Final,2024-03-15,99
+S045,English,Midterm,2024-01-10,68
+S045,English,Final,2024-03-15,62
+S045,Science,Midterm,2024-01-10,36
+S045,Science,Final,2024-03-15,36
+S045,Computer Science,Midterm,2024-01-10,100
+S045,Computer Science,Final,2024-03-15,100
+S045,Urdu,Midterm,2024-01-10,76
+S045,Urdu,Final,2024-03-15,82
+S046,Math,Midterm,2024-01-10,44
+S046,Math,Final,2024-03-15,46
+S046,English,Midterm,2024-01-10,76
+S046,English,Final,2024-03-15,79
+S046,Science,Midterm,2024-01-10,82
+S046,Science,Final,2024-03-15,87
+S046,Computer Science,Midterm,2024-01-10,85
+S046,Computer Science,Final,2024-03-15,84
+S046,Urdu,Midterm,2024-01-10,87
+S046,Urdu,Final,2024-03-15,99
+S047,Math,Midterm,2024-01-10,58
+S047,Math,Final,2024-03-15,55
+S047,English,Midterm,2024-01-10,91
+S047,English,Final,2024-03-15,93
+S047,Science,Midterm,2024-01-10,93
+S047,Science,Final,2024-03-15,93
+S047,Computer Science,Midterm,2024-01-10,97
+S047,Computer Science,Final,2024-03-15,100
+S047,Urdu,Midterm,2024-01-10,86
+S047,Urdu,Final,2024-03-15,98
+S048,Math,Midterm,2024-01-10,64
+S048,Math,Final,2024-03-15,61
+S048,English,Midterm,2024-01-10,71
+S048,English,Final,2024-03-15,77
+S048,Science,Midterm,2024-01-10,54
+S048,Science,Final,2024-03-15,60
+S048,Computer Science,Midterm,2024-01-10,71
+S048,Computer Science,Final,2024-03-15,81
+S048,Urdu,Midterm,2024-01-10,64
+S048,Urdu,Final,2024-03-15,62
+S049,Math,Midterm,2024-01-10,45
+S049,Math,Final,2024-03-15,43
+S049,English,Midterm,2024-01-10,80
+S049,English,Final,2024-03-15,82
+S049,Science,Midterm,2024-01-10,72
+S049,Science,Final,2024-03-15,74
+S049,Computer Science,Midterm,2024-01-10,82
+S049,Computer Science,Final,2024-03-15,79
+S049,Urdu,Midterm,2024-01-10,88
+S049,Urdu,Final,2024-03-15,95
+S050,Math,Midterm,2024-01-10,75
+S050,Math,Final,2024-03-15,81
+S050,English,Midterm,2024-01-10,77
+S050,English,Final,2024-03-15,92
+S050,Science,Midterm,2024-01-10,70
+S050,Science,Final,2024-03-15,72
+S050,Computer Science,Midterm,2024-01-10,68
+S050,Computer Science,Final,2024-03-15,65
+S050,Urdu,Midterm,2024-01-10,71
+S050,Urdu,Final,2024-03-15,68
+S051,Math,Midterm,2024-01-10,69
+S051,Math,Final,2024-03-15,74
+S051,English,Midterm,2024-01-10,76
+S051,English,Final,2024-03-15,75
+S051,Science,Midterm,2024-01-10,84
+S051,Science,Final,2024-03-15,91
+S051,Computer Science,Midterm,2024-01-10,76
+S051,Computer Science,Final,2024-03-15,75
+S051,Urdu,Midterm,2024-01-10,85
+S051,Urdu,Final,2024-03-15,89
+S052,Math,Midterm,2024-01-10,49
+S052,Math,Final,2024-03-15,51
+S052,English,Midterm,2024-01-10,80
+S052,English,Final,2024-03-15,78
+S052,Science,Midterm,2024-01-10,77
+S052,Science,Final,2024-03-15,71
+S052,Computer Science,Midterm,2024-01-10,94
+S052,Computer Science,Final,2024-03-15,100
+S052,Urdu,Midterm,2024-01-10,81
+S052,Urdu,Final,2024-03-15,86
+S053,Math,Midterm,2024-01-10,21
+S053,Math,Final,2024-03-15,17
+S053,English,Midterm,2024-01-10,63
+S053,English,Final,2024-03-15,59
+S053,Science,Midterm,2024-01-10,71
+S053,Science,Final,2024-03-15,86
+S053,Computer Science,Midterm,2024-01-10,54
+S053,Computer Science,Final,2024-03-15,52
+S053,Urdu,Midterm,2024-01-10,72
+S053,Urdu,Final,2024-03-15,85
+S054,Math,Midterm,2024-01-10,47
+S054,Math,Final,2024-03-15,51
+S054,English,Midterm,2024-01-10,88
+S054,English,Final,2024-03-15,82
+S054,Science,Midterm,2024-01-10,54
+S054,Science,Final,2024-03-15,54
+S054,Computer Science,Midterm,2024-01-10,68
+S054,Computer Science,Final,2024-03-15,76
+S054,Urdu,Midterm,2024-01-10,79
+S054,Urdu,Final,2024-03-15,71
+S055,Math,Midterm,2024-01-10,73
+S055,Math,Final,2024-03-15,73
+S055,English,Midterm,2024-01-10,83
+S055,English,Final,2024-03-15,82
+S055,Science,Midterm,2024-01-10,61
+S055,Science,Final,2024-03-15,67
+S055,Computer Science,Midterm,2024-01-10,82
+S055,Computer Science,Final,2024-03-15,87
+S055,Urdu,Midterm,2024-01-10,64
+S055,Urdu,Final,2024-03-15,71
+S056,Math,Midterm,2024-01-10,48
+S056,Math,Final,2024-03-15,52
+S056,English,Midterm,2024-01-10,57
+S056,English,Final,2024-03-15,63
+S056,Science,Midterm,2024-01-10,57
+S056,Science,Final,2024-03-15,53
+S056,Computer Science,Midterm,2024-01-10,80
+S056,Computer Science,Final,2024-03-15,84
+S056,Urdu,Midterm,2024-01-10,71
+S056,Urdu,Final,2024-03-15,83
+S057,Math,Midterm,2024-01-10,59
+S057,Math,Final,2024-03-15,62
+S057,English,Midterm,2024-01-10,75
+S057,English,Final,2024-03-15,74
+S057,Science,Midterm,2024-01-10,75
+S057,Science,Final,2024-03-15,75
+S057,Computer Science,Midterm,2024-01-10,70
+S057,Computer Science,Final,2024-03-15,81
+S057,Urdu,Midterm,2024-01-10,70
+S057,Urdu,Final,2024-03-15,59
+S058,Math,Midterm,2024-01-10,100
+S058,Math,Final,2024-03-15,100
+S058,English,Midterm,2024-01-10,79
+S058,English,Final,2024-03-15,71
+S058,Science,Midterm,2024-01-10,76
+S058,Science,Final,2024-03-15,78
+S058,Computer Science,Midterm,2024-01-10,83
+S058,Computer Science,Final,2024-03-15,79
+S058,Urdu,Midterm,2024-01-10,92
+S058,Urdu,Final,2024-03-15,98
+S059,Math,Midterm,2024-01-10,39
+S059,Math,Final,2024-03-15,46
+S059,English,Midterm,2024-01-10,87
+S059,English,Final,2024-03-15,91
+S059,Science,Midterm,2024-01-10,62
+S059,Science,Final,2024-03-15,64
+S059,Computer Science,Midterm,2024-01-10,78
+S059,Computer Science,Final,2024-03-15,70
+S059,Urdu,Midterm,2024-01-10,75
+S059,Urdu,Final,2024-03-15,76
+S060,Math,Midterm,2024-01-10,100
+S060,Math,Final,2024-03-15,100
+S060,English,Midterm,2024-01-10,95
+S060,English,Final,2024-03-15,91
+S060,Science,Midterm,2024-01-10,84
+S060,Science,Final,2024-03-15,89
+S060,Computer Science,Midterm,2024-01-10,72
+S060,Computer Science,Final,2024-03-15,76
+S060,Urdu,Midterm,2024-01-10,93
+S060,Urdu,Final,2024-03-15,94

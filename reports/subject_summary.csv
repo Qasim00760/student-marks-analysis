@@ -1,0 +1,6 @@
+subject,students,average,median,std_dev,lowest,highest,iqr,pass_rate_%,range
+Math,120,66.5,67.0,18.7,17,100,26.2,65.8,83
+Science,120,71.7,73.0,13.7,36,100,20.0,83.3,64
+Computer Science,120,78.1,78.0,12.1,47,100,16.0,93.3,53
+English,120,76.3,77.0,11.3,52,100,15.0,89.2,48
+Urdu,120,80.6,81.5,10.0,59,100,15.0,99.2,41
