@@ -2,7 +2,7 @@
 
 Analysis of student exam results that finds which subjects have the widest spread of marks, shows how grades are distributed in each subject, and measures how results changed between the midterm and the final exam.
 
-**Live demo:** LIVE_DEMO_URL
+**Live demo:** https://mq-student-marks-analysis.streamlit.app/
 
 ![Marks distribution by subject](reports/figures/marks_distribution_by_subject.png)
 
